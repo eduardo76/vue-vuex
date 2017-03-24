@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 
-import {store} from './storages/CounterStore'
+import {store} from './store/CounterStore'
 
 import 'bootstrap/dist/css/bootstrap.css'
 
